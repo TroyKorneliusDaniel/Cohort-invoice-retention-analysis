@@ -23,7 +23,7 @@ The company specializes in managing accounts receivable for B2B transactions, fo
     │   ├── dataset.csv                         <- The original data
     │
     └── notebooks   
-        └── customer-retention-cohort.ipynb     <- Customer Retention Analysis with Cohort Notebook 
+        └── Cohort_invoice_retention.ipynb     <- Customer Retention Analysis with Cohort Notebook 
 
 
 *Looker Dashboard*
